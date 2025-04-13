@@ -32,6 +32,13 @@ The script is designed to be run with different commands (viterbi, forward, back
 and it can be configured with various verbosity levels to control the amount of output generated during execution. 
 Additionally, it provides mechanisms to save the output in specified files, making it easy to analyze the results later.
 
+Score_network_alignments:
+
+This Python script computes a similarity score for protein network alignments based on Gene Ontology (GO) terms. 
+It processes protein-to-Ensembl ID mappings and GO term annotations, calculates the Jaccard index for each protein pair, 
+and generates intermediate output files for further analysis. The script is designed to handle protein ID mappings, 
+GO term associations, and compute a score quantifying the similarity between two protein networks based on shared GO terms.
+
 
 
 

@@ -1,11 +1,11 @@
 # BSB
 
-Pairwise Sequence Alignment using Dynamic Programming
+Pairwise Sequence Alignment using Dynamic Programming:
 This Python script implements pairwise sequence alignment using dynamic programming techniques. 
 It supports three types of alignments: global, semiglobal, and local. The script can process sequences from a FASTA file and allows users to specify a substitution matrix and gap penalty for the alignment.
 
 
-Hidden_Markov_Model
+Hidden_Markov_Model:
 The script is a template for implementing Hidden Markov Models (HMMs) in the context of a sequence analysis course. 
 It provides basic functionality for training and inference with HMMs, focusing on several core algorithms: 
 Viterbi, Forward, Backward, and Baum-Welch. Here's a breakdown of the script's components:

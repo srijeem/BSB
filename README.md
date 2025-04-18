@@ -39,6 +39,12 @@ It processes protein-to-Ensembl ID mappings and GO term annotations, calculates 
 and generates intermediate output files for further analysis. The script is designed to handle protein ID mappings, 
 GO term associations, and compute a score quantifying the similarity between two protein networks based on shared GO terms.
 
+Phi-Psi Angles
+
+This Python script processes DSSP (Dihedral Angle and Solvent Accessibility) files to analyze the propensity of different amino acids 
+to be buried in the protein core. It computes the fraction of buried surface area (BSA) for each amino acid type and calculates the 
+relative propensities for each amino acid to be buried. This information can be useful in the context of protein structure prediction and stability studies.
+
 
 
 
